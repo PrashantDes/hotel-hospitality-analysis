@@ -32,13 +32,19 @@ Located in `datasets/`:
 ## Key Findings
 
 - **Occupancy by room class:** Presidential (RT4) leads at 59.28%, only marginally ahead of Premium, Elite, and Standard — occupancy is fairly even across room classes.
+![Dashboard Preview](https://github.com/PrashantDes/hotel-hospitality-analysis/blob/main/avg%20occ%20rate%20in%20each%20room%20category.png)
 - **Occupancy by city:** Delhi highest (61.51%), Bangalore lowest (56.33%).
+![Dashboard Preview](https://github.com/PrashantDes/hotel-hospitality-analysis/blob/main/avg%20occ%20rate%20per%20city.png)
 - **Weekday vs weekend:** Weekends run much higher — 72.34% vs. 50.88% on weekdays.
+![Dashboard Preview](https://github.com/PrashantDes/hotel-hospitality-analysis/blob/main/weekend%20and%20weekdays.png)
 - **Revenue by city:** Mumbai leads by a wide margin (₹668.6M) despite *not* having the best occupancy or rating; Delhi is lowest on revenue (₹294.4M) despite leading on both.
+![Dashboard Preview](https://github.com/PrashantDes/hotel-hospitality-analysis/blob/main/revenue%20per%20city.png)
 - **Revenue by month:** May 2022 strongest (₹581.8M), June lowest (₹553.9M).
 - **Revenue by property:** Atliq Exotica tops the chain (₹320.3M); Atliq Seasons trails badly (₹66.1M).
+![Dashboard Preview](https://github.com/PrashantDes/hotel-hospitality-analysis/blob/main/revenue%20realised%20per%20hotel%20type.png)
 - **Average rating by city:** Delhi highest (3.78), Bangalore lowest (3.41).
 - **Revenue by booking platform:** "Others" dominates (₹699.3M), followed by MakeYourTrip (₹340.8M); direct booking channels (online + offline combined) bring in noticeably less than third-party platforms.
+![Dashboard Preview](https://github.com/PrashantDes/hotel-hospitality-analysis/blob/main/revenue%20per%20booking%20platform.png)
 
 **Takeaway:** Delhi over-indexes on guest satisfaction and occupancy but under-monetizes relative to Mumbai — worth investigating pricing/positioning. Heavy reliance on third-party platforms over direct channels is also worth flagging given acquisition-cost implications.
 
